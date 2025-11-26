@@ -36,7 +36,7 @@ var (
 )
 
 var (
-	version = "1.0.7-rc.1"
+	version = "1.0.7"
 )
 
 func main() {
