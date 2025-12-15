@@ -27,10 +27,10 @@ github.com/cloudfoundry/sonde-go/events
 # github.com/davecgh/go-spew v1.1.1
 ## explicit
 github.com/davecgh/go-spew/spew
-# github.com/elazarl/goproxy v0.0.0-20200710112657-153946a5f232
-## explicit
-# github.com/elazarl/goproxy/ext v0.0.0-20190711103511-473e67f1d7d2
-## explicit
+# github.com/elazarl/goproxy v1.7.2
+## explicit; go 1.20
+# github.com/elazarl/goproxy/ext v0.0.0-20251122212328-fad3713f1715
+## explicit; go 1.20
 # github.com/fsnotify/fsnotify v1.7.0
 ## explicit; go 1.17
 # github.com/gogo/protobuf v1.3.2
@@ -101,9 +101,10 @@ github.com/pkg/errors
 # github.com/pmezard/go-difflib v1.0.0
 ## explicit
 github.com/pmezard/go-difflib/difflib
-# github.com/stretchr/testify v1.9.0
+# github.com/stretchr/testify v1.10.0
 ## explicit; go 1.17
 github.com/stretchr/testify/assert
+github.com/stretchr/testify/assert/yaml
 # github.com/xhit/go-str2duration/v2 v2.1.0
 ## explicit; go 1.13
 github.com/xhit/go-str2duration/v2

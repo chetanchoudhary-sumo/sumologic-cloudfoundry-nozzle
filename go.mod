@@ -15,7 +15,7 @@ require (
 	github.com/mailru/easyjson v0.9.1
 	github.com/onsi/ginkgo v1.6.0
 	github.com/onsi/gomega v1.4.1
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 )
 
 require (
@@ -23,8 +23,8 @@ require (
 	github.com/alecthomas/units v0.0.0-20240927000941-0f3dac36c52b // indirect
 	github.com/apoydence/eachers v0.0.0-20181020210610-23942921fe77 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/elazarl/goproxy v0.0.0-20200710112657-153946a5f232 // indirect
-	github.com/elazarl/goproxy/ext v0.0.0-20190711103511-473e67f1d7d2 // indirect
+	github.com/elazarl/goproxy v1.7.2 // indirect
+	github.com/elazarl/goproxy/ext v0.0.0-20251122212328-fad3713f1715 // indirect
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/hpcloud/tail v1.0.0 // indirect
