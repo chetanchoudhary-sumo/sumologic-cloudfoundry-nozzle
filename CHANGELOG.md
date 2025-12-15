@@ -5,7 +5,7 @@ owner: Sumo Logic
 
 ## v1.0.7
 
-**Release Date:** December 2, 2025
+**Release Date:** December 12, 2025
 
 Features included in this release:
 
