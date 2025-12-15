@@ -21,8 +21,8 @@ github.com/cloudfoundry/noaa
 github.com/cloudfoundry/noaa/consumer
 github.com/cloudfoundry/noaa/consumer/internal
 github.com/cloudfoundry/noaa/errors
-# github.com/cloudfoundry/sonde-go v0.0.0-20251124090431-33e3494ff82b
-## explicit; go 1.23
+# github.com/cloudfoundry/sonde-go v0.0.0-20160804000546-81c3f6be579c
+## explicit
 github.com/cloudfoundry/sonde-go/events
 # github.com/davecgh/go-spew v1.1.1
 ## explicit
@@ -35,7 +35,9 @@ github.com/davecgh/go-spew/spew
 ## explicit; go 1.17
 # github.com/gogo/protobuf v1.3.2
 ## explicit; go 1.15
+github.com/gogo/protobuf/gogoproto
 github.com/gogo/protobuf/proto
+github.com/gogo/protobuf/protoc-gen-gogo/descriptor
 # github.com/golang/protobuf v1.5.4
 ## explicit; go 1.17
 # github.com/gorilla/websocket v1.5.3
@@ -140,33 +142,6 @@ golang.org/x/text/runes
 golang.org/x/text/transform
 # google.golang.org/protobuf v1.36.11
 ## explicit; go 1.23
-google.golang.org/protobuf/encoding/prototext
-google.golang.org/protobuf/encoding/protowire
-google.golang.org/protobuf/internal/descfmt
-google.golang.org/protobuf/internal/descopts
-google.golang.org/protobuf/internal/detrand
-google.golang.org/protobuf/internal/editiondefaults
-google.golang.org/protobuf/internal/encoding/defval
-google.golang.org/protobuf/internal/encoding/messageset
-google.golang.org/protobuf/internal/encoding/tag
-google.golang.org/protobuf/internal/encoding/text
-google.golang.org/protobuf/internal/errors
-google.golang.org/protobuf/internal/filedesc
-google.golang.org/protobuf/internal/filetype
-google.golang.org/protobuf/internal/flags
-google.golang.org/protobuf/internal/genid
-google.golang.org/protobuf/internal/impl
-google.golang.org/protobuf/internal/order
-google.golang.org/protobuf/internal/pragma
-google.golang.org/protobuf/internal/protolazy
-google.golang.org/protobuf/internal/set
-google.golang.org/protobuf/internal/strs
-google.golang.org/protobuf/internal/version
-google.golang.org/protobuf/proto
-google.golang.org/protobuf/reflect/protoreflect
-google.golang.org/protobuf/reflect/protoregistry
-google.golang.org/protobuf/runtime/protoiface
-google.golang.org/protobuf/runtime/protoimpl
 # gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15
 ## explicit
 # gopkg.in/fsnotify.v1 v1.4.7

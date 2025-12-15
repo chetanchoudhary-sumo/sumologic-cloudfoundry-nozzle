@@ -9,7 +9,7 @@ require (
 	github.com/boltdb/bolt v1.3.1
 	github.com/cloudfoundry-community/go-cfclient v0.0.0-20220930021109-9c4e6c59ccf1
 	github.com/cloudfoundry/noaa v2.1.1-0.20190110210640-5ce49363dfa6+incompatible
-	github.com/cloudfoundry/sonde-go v0.0.0-20251124090431-33e3494ff82b
+	github.com/cloudfoundry/sonde-go v0.0.0-20160804000546-81c3f6be579c
 	github.com/gogo/protobuf v1.3.2
 	github.com/gorilla/websocket v1.5.3
 	github.com/mailru/easyjson v0.9.1
