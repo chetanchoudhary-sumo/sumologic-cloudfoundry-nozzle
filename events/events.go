@@ -42,7 +42,7 @@ func HttpStart(msg *events.Envelope) *Event {
 	}
 }
 
-// // HttpStop event type is retained for backward compatibility, despite being deprecated.
+// HttpStop event type is retained for backward compatibility, despite being deprecated.
 func HttpStop(msg *events.Envelope) *Event {
 	httpStop := msg.GetHttpStop()
 
